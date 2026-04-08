@@ -1,3 +1,4 @@
+<?php require __DIR__ . '/iqnpdc.php' ?>
 <!DOCTYPE html>
   <head>
 	  <!-- Histats.com  START  (aync)-->
